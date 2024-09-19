@@ -5,7 +5,6 @@ def get_matrix(n, m, value):
         matrix.append(a)
         for j in range(m):
             a.append(value)
-    print(matrix)
     return matrix
 
 
